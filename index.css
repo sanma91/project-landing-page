@@ -1,0 +1,30 @@
+body {min-height: 100vh;}
+
+.top {background-color: #1f2937;
+color: wheat;
+padding: 10px 150px 50px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.header {display: flex;
+    justify-content: space-between}
+
+img {height: auto;
+    width: 400px;
+margin-top: 50px;}
+
+.htext {display: flex;
+        justify-content: space-between;}
+
+        .htext .text {display: flex;
+        flex-direction: column;
+    justify-content: center;
+width: 500px;}
+
+    p, a{color: gray;}
+
+    .middle {}
+   
+
